@@ -1,0 +1,30 @@
+Which of the following allows a class to have multiple forms of behavior?
+Encapsulation
+Polymorphism
+Abstraction
+Composition
+B
+What is the concept of wrapping data and methods into a single unit in OOP?
+Encapsulation
+Polymorphism
+Inheritance
+Abstraction
+A
+Which of the following is not a feature of OOP?
+Encapsulation
+Polymorphism
+Inheritance
+Recursion
+D
+Which data structure works on the principle of Last In First Out (LIFO)?
+Queue
+Stack
+LinkedList
+Heap
+B
+Which language is used for iOS app development?
+Java
+Swift
+C++
+Python
+B
